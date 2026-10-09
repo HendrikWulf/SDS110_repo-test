@@ -2,12 +2,12 @@
 Practice repo for README
 
 ## Data
-- raw/: original vector data
-- processed/: reprojected data
+- raw: original vector data
+- processed: reprojected data
 
 ### Code example
 `print('Ay caramba')`
 
 **Author:** Hendrik Wulf  
-**Date:** 2025-10-10  
+**Date:** 2026-10-09  
 **License:** CC-BY-4.0
